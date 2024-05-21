@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936484814992",
+    "project_id": "prset-e4e86",
+    "storage_bucket": "prset-e4e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936484814992:android:5401f21fad3f3f19d01815",
+        "android_client_info": {
+          "package_name": "com.example.pr_set"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDpzbKt1acbIH5_nLNV0hQ1rHyYNTCK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
